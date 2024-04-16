@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Linux",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Made_with_Linux_green.svg/80px-Made_with_Linux_green.svg.png"
+    },
+    {
+        "name": "Windows",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Windows_logo_-_2012_%28red%29.svg/66px-Windows_logo_-_2012_%28red%29.svg.png"
+    },
+    {
+        "name": "Sophos",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sophos_logo.png/100px-Sophos_logo.png"
+    },
+    {
+        "name": "Mikrotik",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/MikroTik_logo.svg/100px-MikroTik_logo.svg.png"
+    },
+    {
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+    },
+    {
+        "name": "Android",
+        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+    },
+    {
+        "name": "Synology",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Synology_Logo.svg/100px-Synology_Logo.svg.png"
+    },
+    {
+        "name": "IT",
+        "icon": "https://raw.githubusercontent.com/pranto48/profile/main/assets/images/itsupport.png"
+    },
+    {
+        "name": "TailwindCSS",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "Sass",
+        "icon": "https://img.icons8.com/color/48/000000/sass.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Nagios",
+        "icon": "https://github.com/pranto48/profile/raw/main/assets/images/nagios.png"
+    },
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Endpoint",
+        "icon": "https://raw.githubusercontent.com/pranto48/profile/main/assets/images/Endpoint.png"
+    },
+    {
+        "name": "Netlify",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+    },
+    {
+        "name": "DigitalOcean",
+        "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
+    },
+    {
+        "name": "jQuery",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+    },
+    {
+        "name": "Server",
+        "icon": "https://img.icons8.com/?size=65&id=2yChSo3IbrJE&format=png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    }    
+]
